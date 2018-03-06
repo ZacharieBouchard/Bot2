@@ -1,1 +1,1 @@
-run: java -jar Serveur.jar
+web: java -jar Serveur.jar
