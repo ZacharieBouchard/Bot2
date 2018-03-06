@@ -1,1 +1,1 @@
-run: java -jar src/Serveur.jar
+run: java -jar Serveur.jar
