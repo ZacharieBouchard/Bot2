@@ -59,12 +59,4 @@
             <artifactId>unirest-java</artifactId>
             <version>1.4.9</version>
         </dependency>
-             <processTypes>
-  <web>java -jar target/my-app-1.0.jar</web>
-</processTypes>
-<includeTarget>false</includeTarget>
-<includes>
-  <include>Serveur.jar</include>
-</includes>
-
 </project>
